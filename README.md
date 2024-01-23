@@ -1,3 +1,31 @@
+# Tes Script
+
+Untuk framework yang digunakan adalah ReactJS (CRA)
+
+# Tes Logika
+
+Tes Logika terdapat didalam folder
+
+#### "/src/utils"
+
+dan untuk uji coba terhadap function tersebut berada didalam folder
+
+#### "/src/test"
+
+Running test menggunakan
+
+#### npm test
+
+# How to install
+
+1. Clone repository ini
+2. masuk kedalam directory
+3. ketikkan "npm install"
+4. ketikkan "npm start"
+5. Jika dalam penggunaan api, mengalami cors, silahkan menggunakan browser without cors.
+   Silahkan dilihat tutorial membuka chrome without cors
+   https://alfilatov.com/posts/run-chrome-without-cors/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
