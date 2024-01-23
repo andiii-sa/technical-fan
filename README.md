@@ -6,15 +6,15 @@ Untuk framework yang digunakan adalah ReactJS (CRA)
 
 Tes Logika terdapat didalam folder
 
-#### "/src/utils"
+#### `/src/utils`
 
 dan untuk uji coba terhadap function tersebut berada didalam folder
 
-#### "/src/test"
+#### `/src/test`
 
 Running test menggunakan
 
-#### npm test
+#### `npm test`
 
 # How to install
 
